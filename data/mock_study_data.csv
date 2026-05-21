@@ -1,0 +1,51 @@
+subject_id,date_of_birth,age,gender,ethnicity,education_level,study_condition,height_cm,weight_kg,bmi,systolic_bp,diastolic_bp,resting_heart_rate,stress_score_1_10,wellbeing_score_1_10,satisfaction_score_1_10,avg_sleep_hours,exercise_days_per_week,smoker,completed_study,site_code,site_name,site_city,site_state,principal_investigator,site_coordinator
+SUBJ_001,1998-02-09,28,Male,Native American,High School,Treatment A,176.6,56.7,18.2,155,83,91,5.3,6.5,7.0,7.4,3,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_002,1990-09-05,35,Female,Pacific Islander,Some College,Treatment A,141.3,61.3,30.7,144,64,93,7.4,4.8,3.2,6.1,7,No,No,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_003,1999-12-20,26,Male,Asian,High School,Treatment A,177.9,50.6,16.0,125,77,59,6.2,9.5,8.9,6.4,6,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_004,1962-10-26,63,Male,Native American,Doctorate,Control,183.4,74.7,22.2,137,85,78,2.9,7.0,5.6,10.4,1,No,No,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_005,1963-09-18,62,Female,Black or African American,Master's,Treatment B,159.9,88.4,34.6,129,93,71,8.9,5.5,1.1,6.7,4,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_006,1976-05-01,50,Male,Native American,High School,Treatment A,155.1,100.0,41.6,132,66,95,4.4,5.4,6.5,8.4,2,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_007,1997-07-31,28,Female,Prefer not to say,Bachelor's,Treatment B,192.8,79.2,21.3,156,79,70,8.8,7.1,9.5,8.0,1,No,Yes,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_008,1961-04-13,65,Male,Hispanic or Latino,Doctorate,Treatment A,175.9,72.1,23.3,127,73,89,9.0,6.1,7.4,5.5,6,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_009,1989-04-21,37,Female,Asian,High School,Treatment A,171.4,88.5,30.1,137,95,69,4.8,5.9,7.4,7.3,0,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_010,1971-05-09,55,Male,Hispanic or Latino,Some College,Treatment A,171.4,69.8,23.8,136,90,70,1.0,6.6,2.7,5.2,1,No,Yes,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_011,1986-11-18,39,Male,Black or African American,High School,Treatment B,185.0,84.0,24.5,151,66,70,5.9,7.7,2.3,7.5,1,No,No,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_012,1999-05-17,27,Male,White,Doctorate,Treatment B,180.2,108.6,33.4,154,75,65,4.1,4.6,8.8,7.6,0,No,Yes,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_013,1985-01-10,41,Male,Multiracial,Bachelor's,Treatment A,164.7,52.1,19.2,150,95,86,5.9,7.0,9.7,5.9,5,Yes,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_014,1995-02-11,31,Female,White,Some College,Treatment B,164.0,80.9,30.1,111,64,93,4.8,8.7,4.6,7.8,3,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_015,1957-05-10,69,Male,Pacific Islander,Doctorate,Treatment B,176.2,71.0,22.9,145,80,70,4.9,6.8,6.8,4.8,1,Yes,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_016,2000-07-05,25,Non-binary,Asian,Doctorate,Control,176.1,67.0,21.6,122,64,70,5.0,5.4,8.5,7.4,4,No,No,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_017,1997-06-15,28,Male,Black or African American,Bachelor's,Treatment B,175.0,72.0,23.5,107,66,90,5.9,7.0,2.9,6.2,4,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_018,1954-07-23,71,Male,White,Bachelor's,Treatment A,182.7,100.8,30.2,140,76,65,5.1,5.9,4.8,5.7,0,Yes,No,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_019,1963-05-17,63,Female,Hispanic or Latino,Doctorate,Treatment A,167.4,76.9,27.4,123,62,77,5.4,7.1,1.9,7.4,6,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_020,1971-03-29,55,Female,White,Master's,Control,149.6,89.6,40.0,150,86,70,9.1,5.7,2.0,8.7,0,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_021,1991-04-19,35,Male,White,Some College,Control,164.6,62.2,23.0,117,64,72,3.6,7.4,7.1,7.5,0,Yes,No,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_022,1966-01-08,60,Female,Black or African American,High School,Treatment A,162.5,63.7,24.1,150,80,82,3.9,4.6,4.5,6.3,3,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_023,1950-02-25,76,Female,Pacific Islander,Some College,Treatment B,147.9,90.3,41.3,158,81,94,3.5,8.7,7.5,6.7,6,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_024,1999-09-27,26,Male,Hispanic or Latino,Master's,Treatment A,178.2,65.5,20.6,135,60,74,3.9,5.6,6.2,8.0,5,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_025,1969-03-04,57,Female,Black or African American,Some College,Treatment B,166.9,96.7,34.7,139,81,60,6.4,3.7,7.1,7.1,0,Yes,No,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_026,2004-11-03,21,Female,Multiracial,Master's,Control,176.6,89.8,28.8,145,84,86,3.3,5.3,7.2,7.3,1,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_027,1996-06-20,29,Male,Black or African American,Some College,Treatment B,152.7,82.3,35.3,142,93,90,1.0,3.9,9.0,5.8,6,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_028,1964-04-12,62,Female,Native American,Master's,Treatment A,159.6,75.3,29.6,117,93,86,1.2,5.2,1.7,6.4,4,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_029,1998-06-17,27,Male,Multiracial,Some College,Control,164.6,53.0,19.6,104,86,81,3.9,7.5,1.6,7.5,0,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_030,1984-02-16,42,Male,Multiracial,Bachelor's,Treatment A,161.4,97.5,37.4,126,94,89,1.1,7.0,5.4,5.0,4,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_031,1980-02-27,46,Female,Prefer not to say,Some College,Treatment A,194.6,54.6,14.4,134,61,80,2.5,4.8,1.8,5.2,2,Yes,Yes,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_032,1968-12-27,57,Male,Native American,Master's,Treatment A,178.7,75.4,23.6,116,65,85,1.2,7.9,10.0,7.2,5,No,Yes,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_033,1953-08-12,72,Female,White,Some College,Control,164.7,67.4,24.8,130,67,91,7.1,5.5,3.3,6.1,1,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_034,1977-11-27,48,Male,Multiracial,Bachelor's,Control,180.0,56.1,17.3,104,97,95,6.9,6.1,3.7,8.5,1,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_035,1953-09-07,72,Male,Black or African American,Bachelor's,Treatment A,160.9,74.5,28.8,154,86,86,9.0,8.4,6.7,7.7,6,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_036,1974-03-26,52,Female,Prefer not to say,Master's,Treatment B,156.2,52.7,21.6,117,80,70,6.3,6.3,8.9,6.6,3,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_037,1984-01-01,42,Male,Hispanic or Latino,Bachelor's,Treatment A,160.7,76.1,29.5,116,81,72,7.3,4.4,3.5,9.4,1,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_038,1999-10-23,26,Female,Prefer not to say,Master's,Treatment B,171.6,72.3,24.6,118,74,80,5.1,5.5,6.2,6.2,7,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_039,1999-05-19,27,Male,Native American,Master's,Treatment B,167.5,85.2,30.4,146,72,75,6.8,7.3,7.9,7.3,7,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_040,1997-01-25,29,Female,Native American,Some College,Control,176.4,76.3,24.5,100,94,63,6.2,5.4,6.0,9.7,2,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_041,1959-03-16,67,Female,Prefer not to say,Bachelor's,Treatment B,161.0,76.8,29.6,103,76,85,5.6,6.4,5.4,5.7,2,Yes,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_042,1977-04-05,49,Male,Multiracial,High School,Control,162.9,54.2,20.4,114,93,79,2.8,4.5,8.7,7.3,6,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_043,2004-09-10,21,Non-binary,Asian,Some College,Control,169.6,81.1,28.2,115,71,90,5.1,6.0,5.1,6.3,3,No,Yes,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_044,1990-09-25,35,Male,Asian,Bachelor's,Control,165.4,58.2,21.3,141,69,72,6.1,6.3,2.5,6.7,4,No,Yes,SITE-004,Johns Hopkins Research Ctr,Baltimore,MD,Dr. Müller,Aisha Brown
+SUBJ_045,1975-11-23,50,Male,Multiracial,Bachelor's,Treatment A,181.0,68.8,21.0,131,88,60,1.6,4.2,7.6,6.8,3,No,Yes,SITE-005,University of Chicago Med,Chicago,IL,Dr. Rivera,Tom Nguyen
+SUBJ_046,2001-08-09,24,Female,White,Bachelor's,Control,168.6,75.8,26.7,133,88,72,3.8,6.8,6.7,8.2,7,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran
+SUBJ_047,1986-08-20,39,Male,Hispanic or Latino,High School,Treatment B,162.6,95.2,36.0,118,85,90,5.8,6.1,3.3,8.3,0,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_048,1987-01-28,39,Male,Prefer not to say,Bachelor's,Treatment B,181.5,57.1,17.3,113,77,90,2.6,6.8,8.9,7.6,7,Yes,No,SITE-002,UCLA Health Sciences,Los Angeles,CA,Dr. Okafor,James Wu
+SUBJ_049,2004-08-16,21,Female,Native American,Some College,Treatment B,158.0,69.0,27.6,105,74,62,4.0,6.2,8.5,5.4,4,No,Yes,SITE-003,UT Southwestern Medical,Dallas,TX,Dr. Patel,Maria Santos
+SUBJ_050,1992-05-13,34,Male,Multiracial,Some College,Treatment B,170.2,82.4,28.4,147,68,59,7.5,5.6,4.7,8.7,4,No,Yes,SITE-001,Boston Medical Center,Boston,MA,Dr. Harmon,Lisa Tran

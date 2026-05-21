@@ -1,0 +1,251 @@
+subject_id,visit_number,visit_name,scheduled_date,actual_date,status,visit_type,staff_member,systolic_bp,diastolic_bp,resting_heart_rate,weight_kg,stress_score_1_10,wellbeing_score_1_10,notes
+SUBJ_001,1,Baseline,2024-09-09,2024-09-15,Completed,In-Person,Dr. Rivera,147,66,89,58.0,5.8,7.2,No concerns noted.
+SUBJ_001,2,Week 4 Follow-up,2024-10-07,2024-10-10,Completed,In-Person,Dr. Rivera,145,94,81,56.9,5.5,7.8,Follow-up required.
+SUBJ_001,3,Week 8 Follow-up,2024-11-04,2024-11-11,Completed,Telehealth,Dr. Rivera,110,87,76,56.5,6.0,6.5,Participant in good spirits.
+SUBJ_001,4,Week 12 Follow-up,2024-12-02,2024-12-03,Completed,In-Person,Dr. Rivera,138,76,57,56.0,5.1,5.3,Participant in good spirits.
+SUBJ_001,5,Final / Week 16,2024-12-30,2024-12-31,Completed,In-Person,Dr. Rivera,140,99,78,54.6,4.6,7.2,No concerns noted.
+SUBJ_002,1,Baseline,2025-03-10,2025-03-06,Completed,In-Person,Dr. Patel,153,83,65,68.5,1.6,7.7,Participant reported mild fatigue.
+SUBJ_002,2,Week 4 Follow-up,2025-04-07,,Missed,,,,83,,,,,Participant did not attend.
+SUBJ_002,3,Week 8 Follow-up,2025-05-05,,Not Reached,,,,83,,,,,
+SUBJ_002,4,Week 12 Follow-up,2025-06-02,,Not Reached,,,,83,,,,,
+SUBJ_002,5,Final / Week 16,2025-06-30,,Not Reached,,,,83,,,,,
+SUBJ_003,1,Baseline,2025-02-15,2025-02-19,Completed,In-Person,Dr. Rivera,115,70,84,57.4,8.3,4.3,Participant reported mild fatigue.
+SUBJ_003,2,Week 4 Follow-up,2025-03-15,2025-03-20,Completed,In-Person,Dr. Rivera,103,74,57,59.2,6.5,4.1,Participant in good spirits.
+SUBJ_003,3,Week 8 Follow-up,2025-04-12,2025-04-08,Completed,In-Person,Dr. Rivera,156,80,68,59.9,5.4,6.1,Minor scheduling conflict resolved.
+SUBJ_003,4,Week 12 Follow-up,2025-05-10,2025-05-09,Completed,In-Person,Dr. Rivera,134,76,92,59.8,5.0,5.7,Participant in good spirits.
+SUBJ_003,5,Final / Week 16,2025-06-07,2025-06-07,Completed,In-Person,Dr. Rivera,132,91,60,60.8,4.2,5.4,
+SUBJ_004,1,Baseline,2025-07-24,2025-07-20,Completed,In-Person,Dr. Müller,129,93,71,42.3,10,6.0,Follow-up required.
+SUBJ_004,2,Week 4 Follow-up,2025-08-21,2025-08-16,Completed,In-Person,Dr. Müller,156,94,72,41.8,9.1,6.2,No concerns noted.
+SUBJ_004,3,Week 8 Follow-up,2025-09-18,2025-09-13,Completed,Telehealth,Dr. Müller,116,92,66,42.4,9.5,6.4,Minor scheduling conflict resolved.
+SUBJ_004,4,Week 12 Follow-up,2025-10-16,2025-10-21,Completed,In-Person,Dr. Müller,138,72,64,41.0,10,8.6,Follow-up required.
+SUBJ_004,5,Final / Week 16,2025-11-13,2025-11-08,Completed,In-Person,Dr. Müller,107,83,74,40.6,10,7.1,Participant reported mild fatigue.
+SUBJ_005,1,Baseline,2025-12-19,2025-12-25,Completed,In-Person,Dr. Rivera,148,94,63,70.8,5.8,2.7,No concerns noted.
+SUBJ_005,2,Week 4 Follow-up,2026-01-16,,Missed,,,,94,,,,,Participant did not attend.
+SUBJ_005,3,Week 8 Follow-up,2026-02-13,,Not Reached,,,,94,,,,,
+SUBJ_005,4,Week 12 Follow-up,2026-03-13,,Not Reached,,,,94,,,,,
+SUBJ_005,5,Final / Week 16,2026-04-10,,Not Reached,,,,94,,,,,
+SUBJ_006,1,Baseline,2025-07-25,2025-07-28,Completed,Telehealth,Dr. Patel,145,79,80,89.2,9.2,4.6,Participant in good spirits.
+SUBJ_006,2,Week 4 Follow-up,2025-08-22,2025-08-24,Completed,Telehealth,Dr. Patel,115,74,59,88.5,8.9,4.7,Participant reported mild fatigue.
+SUBJ_006,3,Week 8 Follow-up,2025-09-19,2025-09-15,Completed,Telehealth,Dr. Patel,104,62,76,90.6,8.5,4.9,No concerns noted.
+SUBJ_006,4,Week 12 Follow-up,2025-10-17,2025-10-22,Completed,In-Person,Dr. Patel,146,96,91,87.0,8.1,4.8,Participant reported mild fatigue.
+SUBJ_006,5,Final / Week 16,2025-11-14,2025-11-10,Completed,In-Person,Dr. Patel,126,89,58,88.7,6.5,2.0,No concerns noted.
+SUBJ_007,1,Baseline,2024-08-26,2024-09-01,Completed,In-Person,Nurse Okafor,115,72,67,46.8,6.5,7.7,Minor scheduling conflict resolved.
+SUBJ_007,2,Week 4 Follow-up,2024-09-23,,Missed,,,,72,,,,,Participant did not attend.
+SUBJ_007,3,Week 8 Follow-up,2024-10-21,,Not Reached,,,,72,,,,,
+SUBJ_007,4,Week 12 Follow-up,2024-11-18,,Not Reached,,,,72,,,,,
+SUBJ_007,5,Final / Week 16,2024-12-16,,Not Reached,,,,72,,,,,
+SUBJ_008,1,Baseline,2024-08-03,2024-08-10,Completed,Telehealth,Nurse Okafor,103,94,55,89.8,5.9,4.5,Follow-up required.
+SUBJ_008,2,Week 4 Follow-up,2024-08-31,2024-08-29,Completed,In-Person,Nurse Okafor,113,85,58,88.4,3.8,3.1,Participant reported mild fatigue.
+SUBJ_008,3,Week 8 Follow-up,2024-09-28,2024-10-05,Completed,In-Person,Nurse Okafor,146,95,86,90.5,4.2,5.6,Participant reported mild fatigue.
+SUBJ_008,4,Week 12 Follow-up,2024-10-26,2024-10-21,Completed,In-Person,Nurse Okafor,147,80,58,89.9,4.1,6.0,Participant reported mild fatigue.
+SUBJ_008,5,Final / Week 16,2024-11-23,2024-11-18,Completed,Telehealth,Nurse Okafor,111,64,93,87.4,5.5,5.7,No concerns noted.
+SUBJ_009,1,Baseline,2025-07-05,2025-07-09,Completed,In-Person,Dr. Rivera,139,65,81,90.9,2.6,5.2,Follow-up required.
+SUBJ_009,2,Week 4 Follow-up,2025-08-02,2025-08-07,Completed,Telehealth,Dr. Rivera,125,68,74,93.1,1.5,6.1,No concerns noted.
+SUBJ_009,3,Week 8 Follow-up,2025-08-30,2025-08-26,Completed,In-Person,Dr. Rivera,136,66,59,90.3,3.4,6.1,Follow-up required.
+SUBJ_009,4,Week 12 Follow-up,2025-09-27,2025-09-23,Completed,Telehealth,Dr. Rivera,110,88,89,93.0,3.3,4.2,No concerns noted.
+SUBJ_009,5,Final / Week 16,2025-10-25,2025-11-01,Completed,In-Person,Dr. Rivera,152,95,74,92.6,3.5,6.1,No concerns noted.
+SUBJ_010,1,Baseline,2024-09-04,2024-09-03,Completed,In-Person,Nurse Chen,113,100,71,74.3,5.5,6.7,Participant in good spirits.
+SUBJ_010,2,Week 4 Follow-up,2024-10-02,2024-09-27,Completed,In-Person,Nurse Chen,117,62,55,74.7,6.8,7.3,Participant reported mild fatigue.
+SUBJ_010,3,Week 8 Follow-up,2024-10-30,,Missed,,,,62,,,,,Participant did not attend.
+SUBJ_010,4,Week 12 Follow-up,2024-11-27,,Not Reached,,,,62,,,,,
+SUBJ_010,5,Final / Week 16,2024-12-25,,Not Reached,,,,62,,,,,
+SUBJ_011,1,Baseline,2025-08-13,2025-08-19,Completed,In-Person,Dr. Müller,104,69,89,61.9,1.9,6.6,No concerns noted.
+SUBJ_011,2,Week 4 Follow-up,2025-09-10,2025-09-13,Completed,In-Person,Dr. Müller,119,83,57,62.8,1,6.4,No concerns noted.
+SUBJ_011,3,Week 8 Follow-up,2025-10-08,2025-10-15,Completed,In-Person,Dr. Müller,139,69,70,62.7,2.8,4.3,Minor scheduling conflict resolved.
+SUBJ_011,4,Week 12 Follow-up,2025-11-05,2025-11-12,Completed,In-Person,Dr. Müller,111,81,81,63.0,1,6.7,Participant reported mild fatigue.
+SUBJ_011,5,Final / Week 16,2025-12-03,2025-12-10,Completed,Telehealth,Dr. Müller,102,90,69,60.9,1.7,8.5,No concerns noted.
+SUBJ_012,1,Baseline,2025-05-11,2025-05-09,Completed,In-Person,Dr. Patel,121,77,59,83.3,6.2,6.6,No concerns noted.
+SUBJ_012,2,Week 4 Follow-up,2025-06-08,2025-06-11,Completed,In-Person,Dr. Patel,156,76,66,80.9,3.9,5.8,No concerns noted.
+SUBJ_012,3,Week 8 Follow-up,2025-07-06,2025-07-01,Completed,In-Person,Dr. Patel,146,80,82,80.7,5.7,6.2,Participant reported mild fatigue.
+SUBJ_012,4,Week 12 Follow-up,2025-08-03,,Missed,,,,80,,,,,Participant did not attend.
+SUBJ_012,5,Final / Week 16,2025-08-31,,Not Reached,,,,80,,,,,
+SUBJ_013,1,Baseline,2025-02-02,2025-02-08,Completed,In-Person,Dr. Rivera,151,94,67,66.5,4.2,6.1,Participant reported mild fatigue.
+SUBJ_013,2,Week 4 Follow-up,2025-03-02,2025-03-07,Completed,Telehealth,Dr. Rivera,142,67,74,63.0,4.4,5.1,Follow-up required.
+SUBJ_013,3,Week 8 Follow-up,2025-03-30,2025-04-02,Completed,In-Person,Dr. Rivera,160,84,66,67.3,3.9,5.2,Participant reported mild fatigue.
+SUBJ_013,4,Week 12 Follow-up,2025-04-27,2025-04-30,Completed,Telehealth,Dr. Rivera,113,87,92,64.2,4.0,4.4,No concerns noted.
+SUBJ_013,5,Final / Week 16,2025-05-25,2025-05-28,Completed,In-Person,Dr. Rivera,150,70,60,66.0,4.2,7.2,Minor scheduling conflict resolved.
+SUBJ_014,1,Baseline,2025-04-26,2025-05-03,Completed,In-Person,Dr. Rivera,151,72,64,66.0,8.2,2.7,No concerns noted.
+SUBJ_014,2,Week 4 Follow-up,2025-05-24,2025-05-20,Completed,In-Person,Dr. Rivera,136,72,79,65.4,7.4,4.6,Minor scheduling conflict resolved.
+SUBJ_014,3,Week 8 Follow-up,2025-06-21,2025-06-26,Completed,In-Person,Dr. Rivera,155,66,82,65.4,9.9,4.2,Minor scheduling conflict resolved.
+SUBJ_014,4,Week 12 Follow-up,2025-07-19,2025-07-22,Completed,In-Person,Dr. Rivera,129,68,84,63.3,6.6,2.0,Participant in good spirits.
+SUBJ_014,5,Final / Week 16,2025-08-16,2025-08-20,Completed,In-Person,Dr. Rivera,128,99,87,62.0,9.1,4.0,Participant in good spirits.
+SUBJ_015,1,Baseline,2025-09-16,2025-09-23,Completed,In-Person,Nurse Chen,149,93,86,82.4,8.1,5.5,Follow-up required.
+SUBJ_015,2,Week 4 Follow-up,2025-10-14,2025-10-10,Completed,Telehealth,Nurse Chen,121,80,89,82.9,9.0,5.7,No concerns noted.
+SUBJ_015,3,Week 8 Follow-up,2025-11-11,2025-11-09,Completed,In-Person,Nurse Chen,134,89,81,82.7,10,6.8,Participant reported mild fatigue.
+SUBJ_015,4,Week 12 Follow-up,2025-12-09,2025-12-10,Completed,Telehealth,Nurse Chen,144,61,91,82.0,8.8,5.1,Follow-up required.
+SUBJ_015,5,Final / Week 16,2026-01-06,,Missed,,,,61,,,,,Participant did not attend.
+SUBJ_016,1,Baseline,2025-07-21,2025-07-27,Completed,Telehealth,Dr. Müller,157,74,86,83.1,7.9,7.1,Participant in good spirits.
+SUBJ_016,2,Week 4 Follow-up,2025-08-18,2025-08-13,Completed,In-Person,Dr. Müller,151,85,65,82.9,5.8,7.2,Participant in good spirits.
+SUBJ_016,3,Week 8 Follow-up,2025-09-15,2025-09-16,Completed,In-Person,Dr. Müller,105,87,63,80.9,8.1,5.5,Participant in good spirits.
+SUBJ_016,4,Week 12 Follow-up,2025-10-13,2025-10-12,Completed,In-Person,Dr. Müller,120,81,79,80.4,10,4.3,No concerns noted.
+SUBJ_016,5,Final / Week 16,2025-11-10,2025-11-12,Completed,In-Person,Dr. Müller,160,82,69,82.4,6.7,4.6,Participant reported mild fatigue.
+SUBJ_017,1,Baseline,2024-06-28,2024-06-26,Completed,In-Person,Dr. Rivera,109,75,63,69.2,8.0,6.3,No concerns noted.
+SUBJ_017,2,Week 4 Follow-up,2024-07-26,2024-07-25,Completed,Telehealth,Dr. Rivera,138,67,65,69.4,8.4,5.1,No concerns noted.
+SUBJ_017,3,Week 8 Follow-up,2024-08-23,2024-08-18,Completed,Telehealth,Dr. Rivera,158,84,80,70.8,7.7,3.6,Follow-up required.
+SUBJ_017,4,Week 12 Follow-up,2024-09-20,2024-09-18,Completed,In-Person,Dr. Rivera,154,98,62,68.4,8.3,4.0,Participant in good spirits.
+SUBJ_017,5,Final / Week 16,2024-10-18,2024-10-13,Completed,In-Person,Dr. Rivera,123,64,87,69.8,7.8,4.2,Participant reported mild fatigue.
+SUBJ_018,1,Baseline,2025-08-04,2025-08-09,Completed,Telehealth,Nurse Chen,109,87,66,64.1,6.7,3.4,Participant reported mild fatigue.
+SUBJ_018,2,Week 4 Follow-up,2025-09-01,2025-08-31,Completed,In-Person,Nurse Chen,149,90,84,61.1,7.6,5.8,Minor scheduling conflict resolved.
+SUBJ_018,3,Week 8 Follow-up,2025-09-29,2025-09-25,Completed,In-Person,Nurse Chen,148,89,91,66.2,6.2,5.4,Participant reported mild fatigue.
+SUBJ_018,4,Week 12 Follow-up,2025-10-27,2025-10-22,Completed,In-Person,Nurse Chen,131,73,77,63.7,6.1,7.1,No concerns noted.
+SUBJ_018,5,Final / Week 16,2025-11-24,2025-11-23,Completed,In-Person,Nurse Chen,112,65,70,61.7,6.8,4.9,Participant reported mild fatigue.
+SUBJ_019,1,Baseline,2025-01-19,2025-01-24,Completed,Telehealth,Nurse Okafor,101,65,73,101.6,7.4,4.7,Participant reported mild fatigue.
+SUBJ_019,2,Week 4 Follow-up,2025-02-16,2025-02-18,Completed,In-Person,Nurse Okafor,147,95,76,103.1,5.2,6.1,No concerns noted.
+SUBJ_019,3,Week 8 Follow-up,2025-03-16,2025-03-15,Completed,In-Person,Nurse Okafor,112,80,62,101.0,3.4,5.0,No concerns noted.
+SUBJ_019,4,Week 12 Follow-up,2025-04-13,2025-04-19,Completed,In-Person,Nurse Okafor,148,93,93,100.3,5.8,5.7,Participant in good spirits.
+SUBJ_019,5,Final / Week 16,2025-05-11,2025-05-09,Completed,In-Person,Nurse Okafor,119,60,89,101.5,6.1,6.0,No concerns noted.
+SUBJ_020,1,Baseline,2024-09-24,2024-09-20,Completed,Telehealth,Nurse Okafor,130,90,83,63.0,1,9.0,Follow-up required.
+SUBJ_020,2,Week 4 Follow-up,2024-10-22,2024-10-21,Completed,Telehealth,Nurse Okafor,152,64,80,60.6,1.6,6.6,Participant reported mild fatigue.
+SUBJ_020,3,Week 8 Follow-up,2024-11-19,2024-11-26,Completed,In-Person,Nurse Okafor,115,67,90,61.8,1.6,5.4,No concerns noted.
+SUBJ_020,4,Week 12 Follow-up,2024-12-17,2024-12-24,Completed,In-Person,Nurse Okafor,124,88,83,62.0,2.8,5.6,Participant in good spirits.
+SUBJ_020,5,Final / Week 16,2025-01-14,2025-01-09,Completed,In-Person,Nurse Okafor,160,73,95,63.4,1.9,8.2,Participant in good spirits.
+SUBJ_021,1,Baseline,2024-10-25,2024-10-22,Completed,In-Person,Dr. Patel,126,88,93,68.9,1.4,5.5,No concerns noted.
+SUBJ_021,2,Week 4 Follow-up,2024-11-22,2024-11-24,Completed,In-Person,Dr. Patel,116,100,92,70.5,1,3.7,No concerns noted.
+SUBJ_021,3,Week 8 Follow-up,2024-12-20,2024-12-21,Completed,In-Person,Dr. Patel,109,77,64,70.1,1.7,5.1,No concerns noted.
+SUBJ_021,4,Week 12 Follow-up,2025-01-17,2025-01-21,Completed,Telehealth,Dr. Patel,129,79,80,71.6,2.5,5.3,Participant reported mild fatigue.
+SUBJ_021,5,Final / Week 16,2025-02-14,2025-02-16,Completed,In-Person,Dr. Patel,156,87,75,69.0,1.3,5.9,Follow-up required.
+SUBJ_022,1,Baseline,2025-12-28,2026-01-01,Completed,In-Person,Nurse Chen,130,93,83,55.0,5.4,4.8,Participant in good spirits.
+SUBJ_022,2,Week 4 Follow-up,2026-01-25,,Missed,,,,93,,,,,Participant did not attend.
+SUBJ_022,3,Week 8 Follow-up,2026-02-22,,Not Reached,,,,93,,,,,
+SUBJ_022,4,Week 12 Follow-up,2026-03-22,,Not Reached,,,,93,,,,,
+SUBJ_022,5,Final / Week 16,2026-04-19,,Not Reached,,,,93,,,,,
+SUBJ_023,1,Baseline,2026-01-07,2026-01-12,Completed,Telehealth,Nurse Okafor,130,82,81,99.4,3.5,7.4,
+SUBJ_023,2,Week 4 Follow-up,2026-02-04,2026-02-10,Completed,In-Person,Nurse Okafor,125,95,57,99.5,1.4,7.0,Participant in good spirits.
+SUBJ_023,3,Week 8 Follow-up,2026-03-04,2026-03-04,Completed,In-Person,Nurse Okafor,155,92,55,99.5,1.2,6.2,Participant in good spirits.
+SUBJ_023,4,Week 12 Follow-up,2026-04-01,2026-04-01,Completed,In-Person,Nurse Okafor,128,63,68,101.0,2.1,7.3,Participant reported mild fatigue.
+SUBJ_023,5,Final / Week 16,2026-04-29,2026-04-28,Completed,In-Person,Nurse Okafor,107,61,95,99.6,1.7,7.5,Participant in good spirits.
+SUBJ_024,1,Baseline,2025-12-04,2025-11-30,Completed,In-Person,Nurse Okafor,107,89,62,79.5,3.6,3.5,Participant in good spirits.
+SUBJ_024,2,Week 4 Follow-up,2026-01-01,2026-01-07,Completed,In-Person,Nurse Okafor,126,90,85,78.0,5.2,2.3,Participant in good spirits.
+SUBJ_024,3,Week 8 Follow-up,2026-01-29,2026-02-01,Completed,Telehealth,Nurse Okafor,104,77,81,80.2,3.0,5.5,No concerns noted.
+SUBJ_024,4,Week 12 Follow-up,2026-02-26,2026-02-25,Completed,Telehealth,Nurse Okafor,119,97,92,79.6,3.9,4.7,No concerns noted.
+SUBJ_024,5,Final / Week 16,2026-03-26,2026-03-26,Completed,In-Person,Nurse Okafor,124,89,75,79.4,5.8,1.9,Participant in good spirits.
+SUBJ_025,1,Baseline,2025-01-17,2025-01-24,Completed,In-Person,Dr. Patel,130,84,79,104.3,6.3,6.1,No concerns noted.
+SUBJ_025,2,Week 4 Follow-up,2025-02-14,2025-02-09,Completed,In-Person,Dr. Patel,121,66,83,100.9,8.2,7.7,
+SUBJ_025,3,Week 8 Follow-up,2025-03-14,2025-03-09,Completed,Telehealth,Dr. Patel,141,69,59,97.7,6.9,5.6,Participant reported mild fatigue.
+SUBJ_025,4,Week 12 Follow-up,2025-04-11,2025-04-16,Completed,In-Person,Dr. Patel,143,94,79,103.6,7.7,6.0,No concerns noted.
+SUBJ_025,5,Final / Week 16,2025-05-09,,Missed,,,,94,,,,,Participant did not attend.
+SUBJ_026,1,Baseline,2025-09-29,2025-09-24,Completed,In-Person,Dr. Müller,143,78,69,74.3,1.6,6.8,No concerns noted.
+SUBJ_026,2,Week 4 Follow-up,2025-10-27,2025-10-23,Completed,In-Person,Dr. Müller,157,61,57,75.5,2.5,5.9,Participant in good spirits.
+SUBJ_026,3,Week 8 Follow-up,2025-11-24,2025-11-24,Completed,In-Person,Dr. Müller,133,86,91,73.9,2.1,6.2,No concerns noted.
+SUBJ_026,4,Week 12 Follow-up,2025-12-22,2025-12-23,Completed,In-Person,Dr. Müller,158,97,64,76.1,2.9,7.0,No concerns noted.
+SUBJ_026,5,Final / Week 16,2026-01-19,2026-01-21,Completed,In-Person,Dr. Müller,151,89,73,73.9,2.2,4.7,No concerns noted.
+SUBJ_027,1,Baseline,2026-01-09,2026-01-14,Completed,Telehealth,Nurse Chen,129,79,67,87.5,5.5,6.7,Participant in good spirits.
+SUBJ_027,2,Week 4 Follow-up,2026-02-06,2026-02-02,Completed,In-Person,Nurse Chen,136,78,73,89.8,3.8,6.6,Follow-up required.
+SUBJ_027,3,Week 8 Follow-up,2026-03-06,2026-03-11,Completed,Telehealth,Nurse Chen,158,98,86,87.1,4.6,4.8,
+SUBJ_027,4,Week 12 Follow-up,2026-04-03,2026-04-10,Completed,Telehealth,Nurse Chen,122,74,95,87.4,4.2,6.8,Follow-up required.
+SUBJ_027,5,Final / Week 16,2026-05-01,2026-05-06,Completed,Telehealth,Nurse Chen,157,100,57,84.4,3.1,7.7,Follow-up required.
+SUBJ_028,1,Baseline,2026-01-01,2026-01-07,Completed,In-Person,Nurse Chen,120,86,66,76.4,2.8,6.7,Minor scheduling conflict resolved.
+SUBJ_028,2,Week 4 Follow-up,2026-01-29,2026-02-01,Completed,Telehealth,Nurse Chen,116,90,73,74.6,1.1,5.1,Participant in good spirits.
+SUBJ_028,3,Week 8 Follow-up,2026-02-26,2026-02-22,Completed,In-Person,Nurse Chen,148,74,80,78.3,1,4.8,No concerns noted.
+SUBJ_028,4,Week 12 Follow-up,2026-03-26,2026-03-21,Completed,In-Person,Nurse Chen,123,76,92,77.6,1,7.0,No concerns noted.
+SUBJ_028,5,Final / Week 16,2026-04-23,2026-04-23,Completed,In-Person,Nurse Chen,101,99,90,74.6,2.3,5.1,No concerns noted.
+SUBJ_029,1,Baseline,2025-09-05,2025-09-10,Completed,In-Person,Nurse Chen,160,62,74,44.9,7.7,4.9,No concerns noted.
+SUBJ_029,2,Week 4 Follow-up,2025-10-03,2025-10-01,Completed,Telehealth,Nurse Chen,129,83,89,44.4,8.0,5.5,No concerns noted.
+SUBJ_029,3,Week 8 Follow-up,2025-10-31,2025-10-27,Completed,Telehealth,Nurse Chen,160,77,57,47.9,6.9,4.2,Follow-up required.
+SUBJ_029,4,Week 12 Follow-up,2025-11-28,2025-11-30,Completed,Telehealth,Nurse Chen,106,83,89,48.4,6.4,5.6,Minor scheduling conflict resolved.
+SUBJ_029,5,Final / Week 16,2025-12-26,2025-12-22,Completed,Telehealth,Nurse Chen,105,73,95,47.0,7.0,4.8,Participant in good spirits.
+SUBJ_030,1,Baseline,2025-04-24,2025-05-01,Completed,In-Person,Dr. Patel,148,95,68,72.5,4.9,7.6,No concerns noted.
+SUBJ_030,2,Week 4 Follow-up,2025-05-22,2025-05-29,Completed,Telehealth,Dr. Patel,154,69,63,77.5,4.1,7.0,No concerns noted.
+SUBJ_030,3,Week 8 Follow-up,2025-06-19,,Missed,,,,69,,,,,Participant did not attend.
+SUBJ_030,4,Week 12 Follow-up,2025-07-17,,Not Reached,,,,69,,,,,
+SUBJ_030,5,Final / Week 16,2025-08-14,,Not Reached,,,,69,,,,,
+SUBJ_031,1,Baseline,2024-09-07,2024-09-04,Completed,In-Person,Dr. Rivera,115,97,75,59.3,5.2,5.8,Participant in good spirits.
+SUBJ_031,2,Week 4 Follow-up,2024-10-05,2024-10-01,Completed,Telehealth,Dr. Rivera,149,83,87,59.2,4.2,4.5,Participant reported mild fatigue.
+SUBJ_031,3,Week 8 Follow-up,2024-11-02,2024-10-31,Completed,Telehealth,Dr. Rivera,150,93,74,54.4,5.8,6.2,No concerns noted.
+SUBJ_031,4,Week 12 Follow-up,2024-11-30,2024-12-01,Completed,In-Person,Dr. Rivera,145,88,59,58.7,5.8,4.6,No concerns noted.
+SUBJ_031,5,Final / Week 16,2024-12-28,2024-12-25,Completed,In-Person,Dr. Rivera,140,97,90,57.8,4.1,4.4,No concerns noted.
+SUBJ_032,1,Baseline,2025-10-17,2025-10-18,Completed,In-Person,Dr. Müller,154,95,68,94.7,4.5,6.5,Participant in good spirits.
+SUBJ_032,2,Week 4 Follow-up,2025-11-14,2025-11-15,Completed,In-Person,Dr. Müller,126,66,75,93.4,7.1,5.2,Participant reported mild fatigue.
+SUBJ_032,3,Week 8 Follow-up,2025-12-12,2025-12-14,Completed,In-Person,Dr. Müller,105,87,61,96.0,6.4,4.6,Participant in good spirits.
+SUBJ_032,4,Week 12 Follow-up,2026-01-09,2026-01-06,Completed,In-Person,Dr. Müller,135,95,76,94.7,5.5,7.3,Follow-up required.
+SUBJ_032,5,Final / Week 16,2026-02-06,2026-02-07,Completed,Telehealth,Dr. Müller,118,98,74,92.9,5.6,6.7,Participant in good spirits.
+SUBJ_033,1,Baseline,2024-12-21,2024-12-19,Completed,Telehealth,Nurse Okafor,135,83,62,76.4,6.5,6.2,No concerns noted.
+SUBJ_033,2,Week 4 Follow-up,2025-01-18,2025-01-25,Completed,Telehealth,Nurse Okafor,141,95,56,73.5,6.7,4.6,Follow-up required.
+SUBJ_033,3,Week 8 Follow-up,2025-02-15,,Missed,,,,95,,,,,Participant did not attend.
+SUBJ_033,4,Week 12 Follow-up,2025-03-15,,Not Reached,,,,95,,,,,
+SUBJ_033,5,Final / Week 16,2025-04-12,,Not Reached,,,,95,,,,,
+SUBJ_034,1,Baseline,2025-02-15,2025-02-12,Completed,In-Person,Dr. Rivera,158,81,77,73.1,6.4,5.9,Participant in good spirits.
+SUBJ_034,2,Week 4 Follow-up,2025-03-15,2025-03-12,Completed,Telehealth,Dr. Rivera,105,93,68,69.5,5.5,7.6,
+SUBJ_034,3,Week 8 Follow-up,2025-04-12,2025-04-09,Completed,In-Person,Dr. Rivera,149,96,93,70.5,6.5,7.6,Participant in good spirits.
+SUBJ_034,4,Week 12 Follow-up,2025-05-10,2025-05-15,Completed,In-Person,Dr. Rivera,127,91,93,71.8,5.6,7.1,Participant reported mild fatigue.
+SUBJ_034,5,Final / Week 16,2025-06-07,2025-06-14,Completed,In-Person,Dr. Rivera,107,78,92,67.9,6.4,7.8,No concerns noted.
+SUBJ_035,1,Baseline,2024-07-13,2024-07-11,Completed,In-Person,Dr. Rivera,108,76,73,59.5,3.6,6.0,No concerns noted.
+SUBJ_035,2,Week 4 Follow-up,2024-08-10,2024-08-16,Completed,In-Person,Dr. Rivera,134,74,87,57.0,3.2,5.3,No concerns noted.
+SUBJ_035,3,Week 8 Follow-up,2024-09-07,2024-09-13,Completed,In-Person,Dr. Rivera,158,64,75,60.3,2.5,5.3,No concerns noted.
+SUBJ_035,4,Week 12 Follow-up,2024-10-05,2024-10-11,Completed,In-Person,Dr. Rivera,125,61,75,60.8,5.8,4.4,No concerns noted.
+SUBJ_035,5,Final / Week 16,2024-11-02,2024-11-02,Completed,In-Person,Dr. Rivera,115,87,92,59.7,3.4,6.1,Participant in good spirits.
+SUBJ_036,1,Baseline,2025-03-31,2025-03-29,Completed,In-Person,Nurse Chen,132,100,62,67.2,7.4,3.4,No concerns noted.
+SUBJ_036,2,Week 4 Follow-up,2025-04-28,2025-05-03,Completed,Telehealth,Nurse Chen,109,76,67,66.8,7.8,3.7,No concerns noted.
+SUBJ_036,3,Week 8 Follow-up,2025-05-26,2025-06-02,Completed,In-Person,Nurse Chen,149,100,86,66.3,7.8,1.9,No concerns noted.
+SUBJ_036,4,Week 12 Follow-up,2025-06-23,2025-06-27,Completed,In-Person,Nurse Chen,120,100,75,67.1,7.7,3.5,
+SUBJ_036,5,Final / Week 16,2025-07-21,2025-07-23,Completed,In-Person,Nurse Chen,137,63,77,66.9,7.5,2.9,Participant in good spirits.
+SUBJ_037,1,Baseline,2025-03-07,2025-03-12,Completed,Telehealth,Dr. Rivera,139,98,87,98.1,1,4.5,Minor scheduling conflict resolved.
+SUBJ_037,2,Week 4 Follow-up,2025-04-04,2025-04-11,Completed,Telehealth,Dr. Rivera,158,96,67,97.2,2.0,3.8,No concerns noted.
+SUBJ_037,3,Week 8 Follow-up,2025-05-02,2025-04-28,Completed,Telehealth,Dr. Rivera,145,65,87,98.3,1,3.4,Participant in good spirits.
+SUBJ_037,4,Week 12 Follow-up,2025-05-30,2025-06-05,Completed,In-Person,Dr. Rivera,133,99,65,95.7,2.7,2.3,Participant reported mild fatigue.
+SUBJ_037,5,Final / Week 16,2025-06-27,2025-07-02,Completed,In-Person,Dr. Rivera,141,81,59,99.6,1,4.7,Participant in good spirits.
+SUBJ_038,1,Baseline,2025-06-17,2025-06-16,Completed,Telehealth,Nurse Chen,158,98,64,75.9,6.3,5.7,Participant in good spirits.
+SUBJ_038,2,Week 4 Follow-up,2025-07-15,2025-07-20,Completed,In-Person,Nurse Chen,138,65,74,78.0,3.9,4.6,No concerns noted.
+SUBJ_038,3,Week 8 Follow-up,2025-08-12,2025-08-12,Completed,Telehealth,Nurse Chen,153,93,60,75.9,4.4,4.5,Participant in good spirits.
+SUBJ_038,4,Week 12 Follow-up,2025-09-09,2025-09-06,Completed,Telehealth,Nurse Chen,149,91,67,78.0,5.3,5.6,No concerns noted.
+SUBJ_038,5,Final / Week 16,2025-10-07,2025-10-03,Completed,In-Person,Nurse Chen,132,94,88,78.2,5.4,5.2,Participant in good spirits.
+SUBJ_039,1,Baseline,2025-06-07,2025-06-04,Completed,In-Person,Dr. Patel,139,70,83,40.3,4.0,5.7,Participant in good spirits.
+SUBJ_039,2,Week 4 Follow-up,2025-07-05,2025-07-11,Completed,In-Person,Dr. Patel,118,88,69,39.8,2.9,5.8,Participant reported mild fatigue.
+SUBJ_039,3,Week 8 Follow-up,2025-08-02,2025-07-31,Completed,In-Person,Dr. Patel,128,89,73,39.5,3.3,4.2,Minor scheduling conflict resolved.
+SUBJ_039,4,Week 12 Follow-up,2025-08-30,2025-08-31,Completed,Telehealth,Dr. Patel,151,98,63,41.4,2.9,4.4,Participant in good spirits.
+SUBJ_039,5,Final / Week 16,2025-09-27,2025-09-23,Completed,Telehealth,Dr. Patel,107,78,60,41.3,3.2,4.6,Participant reported mild fatigue.
+SUBJ_040,1,Baseline,2025-10-25,2025-10-26,Completed,In-Person,Dr. Patel,152,88,77,86.1,4.2,5.7,Minor scheduling conflict resolved.
+SUBJ_040,2,Week 4 Follow-up,2025-11-22,2025-11-23,Completed,Telehealth,Dr. Patel,101,80,61,85.6,5.4,5.3,No concerns noted.
+SUBJ_040,3,Week 8 Follow-up,2025-12-20,2025-12-27,Completed,In-Person,Dr. Patel,158,90,63,84.8,3.5,4.9,No concerns noted.
+SUBJ_040,4,Week 12 Follow-up,2026-01-17,2026-01-12,Completed,In-Person,Dr. Patel,135,98,88,82.5,3.1,7.3,Participant in good spirits.
+SUBJ_040,5,Final / Week 16,2026-02-14,2026-02-12,Completed,In-Person,Dr. Patel,126,100,94,84.0,4.7,7.6,No concerns noted.
+SUBJ_041,1,Baseline,2024-06-03,2024-06-07,Completed,In-Person,Dr. Müller,127,60,94,78.6,1.7,4.0,No concerns noted.
+SUBJ_041,2,Week 4 Follow-up,2024-07-01,2024-06-28,Completed,In-Person,Dr. Müller,123,64,88,77.2,2.0,2.8,No concerns noted.
+SUBJ_041,3,Week 8 Follow-up,2024-07-29,2024-07-31,Completed,In-Person,Dr. Müller,123,76,56,79.7,2.3,3.3,No concerns noted.
+SUBJ_041,4,Week 12 Follow-up,2024-08-26,2024-08-24,Completed,Telehealth,Dr. Müller,149,97,76,80.6,3.2,2.2,Follow-up required.
+SUBJ_041,5,Final / Week 16,2024-09-23,2024-09-30,Completed,In-Person,Dr. Müller,130,100,66,81.5,2.6,2.7,
+SUBJ_042,1,Baseline,2025-08-29,2025-08-28,Completed,In-Person,Dr. Rivera,156,62,75,92.9,6.7,5.4,Participant in good spirits.
+SUBJ_042,2,Week 4 Follow-up,2025-09-26,2025-09-25,Completed,In-Person,Dr. Rivera,118,82,58,91.2,7.8,3.5,Follow-up required.
+SUBJ_042,3,Week 8 Follow-up,2025-10-24,2025-10-20,Completed,Telehealth,Dr. Rivera,125,88,79,90.8,7.7,3.9,Participant reported mild fatigue.
+SUBJ_042,4,Week 12 Follow-up,2025-11-21,2025-11-28,Completed,In-Person,Dr. Rivera,146,87,60,90.0,4.2,5.6,Participant in good spirits.
+SUBJ_042,5,Final / Week 16,2025-12-19,2025-12-16,Completed,In-Person,Dr. Rivera,105,80,73,90.6,8.5,2.8,No concerns noted.
+SUBJ_043,1,Baseline,2025-05-12,2025-05-07,Completed,Telehealth,Nurse Okafor,139,87,72,75.9,4.0,3.7,Minor scheduling conflict resolved.
+SUBJ_043,2,Week 4 Follow-up,2025-06-09,2025-06-04,Completed,In-Person,Nurse Okafor,123,92,65,75.7,4.9,3.7,Follow-up required.
+SUBJ_043,3,Week 8 Follow-up,2025-07-07,2025-07-02,Completed,In-Person,Nurse Okafor,141,83,78,73.3,4.1,6.0,No concerns noted.
+SUBJ_043,4,Week 12 Follow-up,2025-08-04,2025-08-08,Completed,In-Person,Nurse Okafor,123,83,83,75.1,3.8,4.1,Participant reported mild fatigue.
+SUBJ_043,5,Final / Week 16,2025-09-01,2025-09-06,Completed,In-Person,Nurse Okafor,101,71,86,74.6,2.9,4.9,
+SUBJ_044,1,Baseline,2024-09-15,2024-09-22,Completed,In-Person,Nurse Chen,139,78,86,64.1,8.2,7.2,Participant reported mild fatigue.
+SUBJ_044,2,Week 4 Follow-up,2024-10-13,2024-10-19,Completed,In-Person,Nurse Chen,143,80,77,64.3,7.4,5.4,No concerns noted.
+SUBJ_044,3,Week 8 Follow-up,2024-11-10,2024-11-09,Completed,Telehealth,Nurse Chen,145,100,66,64.4,6.6,7.1,Minor scheduling conflict resolved.
+SUBJ_044,4,Week 12 Follow-up,2024-12-08,2024-12-05,Completed,In-Person,Nurse Chen,123,95,91,64.6,6.5,7.9,Participant reported mild fatigue.
+SUBJ_044,5,Final / Week 16,2025-01-05,2025-01-08,Completed,In-Person,Nurse Chen,104,79,80,66.3,7.7,4.9,Minor scheduling conflict resolved.
+SUBJ_045,1,Baseline,2025-12-27,2025-12-27,Completed,In-Person,Dr. Patel,143,93,77,80.7,5.7,7.6,Participant reported mild fatigue.
+SUBJ_045,2,Week 4 Follow-up,2026-01-24,,Missed,,,,93,,,,,Participant did not attend.
+SUBJ_045,3,Week 8 Follow-up,2026-02-21,,Not Reached,,,,93,,,,,
+SUBJ_045,4,Week 12 Follow-up,2026-03-21,,Not Reached,,,,93,,,,,
+SUBJ_045,5,Final / Week 16,2026-04-18,,Not Reached,,,,93,,,,,
+SUBJ_046,1,Baseline,2025-12-03,2025-11-30,Completed,Telehealth,Dr. Müller,132,63,62,67.4,4.6,9.2,No concerns noted.
+SUBJ_046,2,Week 4 Follow-up,2025-12-31,2025-12-29,Completed,In-Person,Dr. Müller,157,78,60,71.7,4.7,9.4,Minor scheduling conflict resolved.
+SUBJ_046,3,Week 8 Follow-up,2026-01-28,2026-01-31,Completed,In-Person,Dr. Müller,139,94,60,67.8,4.7,8.5,Follow-up required.
+SUBJ_046,4,Week 12 Follow-up,2026-02-25,2026-03-02,Completed,In-Person,Dr. Müller,121,96,57,68.4,4.8,7.8,Minor scheduling conflict resolved.
+SUBJ_046,5,Final / Week 16,2026-03-25,2026-03-20,Completed,Telehealth,Dr. Müller,116,73,91,66.8,5.4,6.6,Participant in good spirits.
+SUBJ_047,1,Baseline,2025-03-10,2025-03-12,Completed,In-Person,Nurse Chen,125,79,84,66.6,4.7,8.8,Participant in good spirits.
+SUBJ_047,2,Week 4 Follow-up,2025-04-07,2025-04-09,Completed,In-Person,Nurse Chen,121,98,64,65.7,5.9,8.4,Participant reported mild fatigue.
+SUBJ_047,3,Week 8 Follow-up,2025-05-05,2025-05-06,Completed,In-Person,Nurse Chen,135,66,75,63.6,4.4,9.1,No concerns noted.
+SUBJ_047,4,Week 12 Follow-up,2025-06-02,2025-06-04,Completed,In-Person,Nurse Chen,118,84,94,63.3,5.7,10,No concerns noted.
+SUBJ_047,5,Final / Week 16,2025-06-30,2025-07-04,Completed,Telehealth,Nurse Chen,110,91,87,65.0,2.4,9.0,No concerns noted.
+SUBJ_048,1,Baseline,2025-10-09,2025-10-05,Completed,Telehealth,Dr. Rivera,115,73,92,64.0,7.4,6.7,Participant reported mild fatigue.
+SUBJ_048,2,Week 4 Follow-up,2025-11-06,2025-11-11,Completed,In-Person,Dr. Rivera,100,66,82,64.4,7.6,9.4,No concerns noted.
+SUBJ_048,3,Week 8 Follow-up,2025-12-04,2025-12-04,Completed,Telehealth,Dr. Rivera,125,63,91,63.0,6.7,8.6,No concerns noted.
+SUBJ_048,4,Week 12 Follow-up,2026-01-01,2026-01-03,Completed,Telehealth,Dr. Rivera,139,99,62,65.7,7.4,9.1,No concerns noted.
+SUBJ_048,5,Final / Week 16,2026-01-29,2026-01-29,Completed,Telehealth,Dr. Rivera,160,83,64,64.9,8.2,8.5,No concerns noted.
+SUBJ_049,1,Baseline,2024-10-05,2024-10-08,Completed,In-Person,Nurse Okafor,132,68,75,73.1,6.8,5.4,Follow-up required.
+SUBJ_049,2,Week 4 Follow-up,2024-11-02,2024-11-03,Completed,Telehealth,Nurse Okafor,119,97,76,71.3,5.9,4.5,Participant in good spirits.
+SUBJ_049,3,Week 8 Follow-up,2024-11-30,2024-12-02,Completed,Telehealth,Nurse Okafor,143,67,81,73.2,4.5,4.9,No concerns noted.
+SUBJ_049,4,Week 12 Follow-up,2024-12-28,,Missed,,,,67,,,,,Participant did not attend.
+SUBJ_049,5,Final / Week 16,2025-01-25,,Not Reached,,,,67,,,,,
+SUBJ_050,1,Baseline,2024-06-14,2024-06-16,Completed,In-Person,Dr. Müller,149,97,91,36.3,6.3,3.1,Participant in good spirits.
+SUBJ_050,2,Week 4 Follow-up,2024-07-12,2024-07-18,Completed,In-Person,Dr. Müller,109,75,57,36.4,4.6,3.6,Participant in good spirits.
+SUBJ_050,3,Week 8 Follow-up,2024-08-09,2024-08-07,Completed,In-Person,Dr. Müller,109,86,68,34.0,6.9,6.1,No concerns noted.
+SUBJ_050,4,Week 12 Follow-up,2024-09-06,2024-09-12,Completed,Telehealth,Dr. Müller,133,73,90,34.7,5.3,5.6,Participant in good spirits.
+SUBJ_050,5,Final / Week 16,2024-10-04,2024-10-07,Completed,In-Person,Dr. Müller,129,94,76,34.0,5.6,5.3,

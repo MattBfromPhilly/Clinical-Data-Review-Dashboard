@@ -1,0 +1,51 @@
+subject_id,screening_date,referring_source,preferred_language,interpreter_required,age_eligible,bmi_eligible,non_smoker_eligible,exclusion_condition,exclusion_condition_eligible,overall_eligible,consent_obtained,consent_date,consent_version,consent_witness,capacity_confirmed,right_to_withdraw_explained,enrolled,enrollment_date,screening_staff,screening_notes
+SUBJ_001,2025-09-16,Self-referral,English,No,Yes,No,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Dr. Müller,No concerns.
+SUBJ_002,2024-11-02,Primary Care Physician,English,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2024-11-02,v1.2,Yes,Yes,Yes,Yes,2024-11-02,Dr. Müller,No concerns.
+SUBJ_003,2024-06-29,Online Ad,Arabic,No,Yes,Yes,No,None,Yes,No,No,,,,,,No,,Dr. Patel,Participant asked clarifying questions.
+SUBJ_004,2025-01-25,Online Ad,English,Yes,Yes,No,Yes,None,Yes,No,No,,,,,,No,,Dr. Rivera,No concerns.
+SUBJ_005,2025-01-21,Primary Care Physician,French,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-01-25,v1.0,No,Yes,Yes,Yes,2025-01-25,Dr. Rivera,No concerns.
+SUBJ_006,2025-01-03,Word of Mouth,English,Yes,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-01-07,v1.0,No,Yes,Yes,Yes,2025-01-07,Dr. Rivera,Consent re-explained at participant request.
+SUBJ_007,2025-09-27,Online Ad,English,No,Yes,No,Yes,None,Yes,No,No,,,,,,No,,Dr. Patel,Participant asked clarifying questions.
+SUBJ_008,2025-10-27,Word of Mouth,English,No,Yes,Yes,No,Severe psychiatric disorder,No,No,No,,,,,,No,,Nurse Okafor,No concerns.
+SUBJ_009,2024-06-17,Primary Care Physician,English,No,Yes,Yes,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Nurse Chen,No concerns.
+SUBJ_010,2025-11-02,Online Ad,English,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Nurse Okafor,Consent re-explained at participant request.
+SUBJ_011,2024-09-26,Word of Mouth,Mandarin,No,Yes,No,Yes,None,Yes,No,No,,,,,,No,,Dr. Müller,No concerns.
+SUBJ_012,2024-05-21,Self-referral,English,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2024-05-24,v1.0,Yes,Yes,Yes,Yes,2024-05-24,Dr. Rivera,No concerns.
+SUBJ_013,2025-07-29,Community Flyer,Spanish,No,Yes,Yes,Yes,Active cancer treatment,No,No,No,,,,,,No,,Nurse Okafor,No concerns.
+SUBJ_014,2024-06-21,Word of Mouth,Mandarin,No,Yes,Yes,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Nurse Chen,No concerns.
+SUBJ_015,2024-10-20,Word of Mouth,French,No,Yes,Yes,Yes,Active cancer treatment,No,No,Yes,2024-10-21,v1.2,Yes,Yes,Yes,Yes,2024-10-21,Dr. Müller,Consent re-explained at participant request.
+SUBJ_016,2025-03-09,Self-referral,English,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Dr. Müller,
+SUBJ_017,2024-07-14,Primary Care Physician,English,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Nurse Chen,No concerns.
+SUBJ_018,2025-05-07,Primary Care Physician,French,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-05-11,v1.0,Yes,Yes,Yes,Yes,2025-05-11,Dr. Patel,Participant asked clarifying questions.
+SUBJ_019,2024-06-25,Hospital Referral,Arabic,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2024-06-26,v1.0,Yes,Yes,Yes,Yes,2024-06-26,Nurse Chen,No concerns.
+SUBJ_020,2024-12-22,Self-referral,English,Yes,Yes,Yes,No,Pregnancy,No,No,No,,,,,,No,,Dr. Rivera,No concerns.
+SUBJ_021,2025-05-18,Primary Care Physician,English,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-05-22,v1.0,Yes,Yes,Yes,Yes,2025-05-22,Dr. Rivera,Consent re-explained at participant request.
+SUBJ_022,2025-02-04,Word of Mouth,Spanish,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Dr. Patel,Participant asked clarifying questions.
+SUBJ_023,2024-06-03,Community Flyer,Arabic,No,Yes,Yes,Yes,Active cancer treatment,No,No,No,,,,,,No,,Dr. Rivera,No concerns.
+SUBJ_024,2024-10-24,Word of Mouth,English,No,Yes,Yes,Yes,Active cancer treatment,No,No,No,,,,,,No,,Dr. Rivera,No concerns.
+SUBJ_025,2025-01-26,Self-referral,English,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-01-26,v1.0,No,Yes,Yes,Yes,2025-01-26,Dr. Patel,No concerns.
+SUBJ_026,2025-04-28,Hospital Referral,English,Yes,Yes,Yes,Yes,Active cancer treatment,No,No,No,,,,,,No,,Dr. Müller,Consent re-explained at participant request.
+SUBJ_027,2025-10-05,Community Flyer,Spanish,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-10-06,v1.1,Yes,Yes,Yes,Yes,2025-10-06,Dr. Patel,No concerns.
+SUBJ_028,2024-12-05,Online Ad,Spanish,No,Yes,Yes,Yes,Recent surgery,No,No,No,,,,,,No,,Dr. Müller,Participant asked clarifying questions.
+SUBJ_029,2024-08-28,Primary Care Physician,Mandarin,No,Yes,No,Yes,None,Yes,No,No,,,,,,No,,Dr. Rivera,Participant asked clarifying questions.
+SUBJ_030,2025-11-11,Hospital Referral,English,Yes,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Dr. Müller,No concerns.
+SUBJ_031,2025-07-02,Self-referral,Spanish,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Dr. Müller,No concerns.
+SUBJ_032,2024-05-10,Word of Mouth,Mandarin,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Nurse Chen,Consent re-explained at participant request.
+SUBJ_033,2025-06-13,Online Ad,Spanish,No,Yes,Yes,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Nurse Chen,No concerns.
+SUBJ_034,2025-10-26,Hospital Referral,English,Yes,Yes,Yes,Yes,Active cancer treatment,No,No,No,,,,,,No,,Dr. Patel,No concerns.
+SUBJ_035,2025-08-26,Online Ad,English,No,Yes,No,Yes,None,Yes,No,No,,,,,,No,,Dr. Müller,Participant asked clarifying questions.
+SUBJ_036,2024-07-16,Online Ad,French,No,Yes,Yes,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Dr. Patel,No concerns.
+SUBJ_037,2025-09-21,Online Ad,Mandarin,No,Yes,Yes,No,Pregnancy,No,No,No,,,,,,No,,Nurse Chen,No concerns.
+SUBJ_038,2025-04-13,Primary Care Physician,English,No,Yes,Yes,No,Active cancer treatment,No,No,No,,,,,,No,,Nurse Chen,No concerns.
+SUBJ_039,2025-02-01,Self-referral,French,No,Yes,No,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Nurse Okafor,No concerns.
+SUBJ_040,2025-09-16,Hospital Referral,English,No,Yes,Yes,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Dr. Müller,No concerns.
+SUBJ_041,2024-10-25,Online Ad,English,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2024-10-26,v1.0,No,Yes,Yes,Yes,2024-10-26,Dr. Patel,Participant asked clarifying questions.
+SUBJ_042,2025-09-25,Community Flyer,Mandarin,No,Yes,Yes,Yes,Recent surgery,No,No,No,,,,,,No,,Dr. Patel,Consent re-explained at participant request.
+SUBJ_043,2025-07-11,Self-referral,French,No,Yes,Yes,Yes,None,Yes,Yes,Yes,2025-07-14,v1.1,Yes,Yes,Yes,Yes,2025-07-14,Nurse Chen,No concerns.
+SUBJ_044,2025-09-20,Community Flyer,English,No,Yes,Yes,Yes,Recent surgery,No,No,Yes,2025-09-23,v1.1,No,Yes,Yes,Yes,2025-09-23,Nurse Chen,Consent re-explained at participant request.
+SUBJ_045,2025-05-20,Community Flyer,English,No,No,Yes,No,None,Yes,No,No,,,,,,No,,Dr. Rivera,
+SUBJ_046,2025-03-29,Word of Mouth,Arabic,No,Yes,Yes,Yes,Severe psychiatric disorder,No,No,No,,,,,,No,,Dr. Rivera,No concerns.
+SUBJ_047,2025-04-16,Online Ad,English,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Nurse Okafor,No concerns.
+SUBJ_048,2025-02-21,Primary Care Physician,Spanish,No,Yes,Yes,Yes,Pregnancy,No,No,No,,,,,,No,,Dr. Patel,No concerns.
+SUBJ_049,2024-10-19,Hospital Referral,French,No,Yes,Yes,No,Pregnancy,No,No,No,,,,,,No,,Dr. Patel,No concerns.
+SUBJ_050,2025-10-29,Word of Mouth,Arabic,No,Yes,No,Yes,None,Yes,No,No,,,,,,No,,Nurse Chen,No concerns.

@@ -1,0 +1,79 @@
+subject_id,ae_id,event_date,adverse_event,severity,relatedness_to_study,action_taken,outcome,resolution_date,serious_adverse_event,reported_by
+SUBJ_002,SUBJ_002_AE01,2025-06-10,Nausea,Mild,Possibly related,None,Resolved,2025-06-28,No,Participant
+SUBJ_002,SUBJ_002_AE02,2025-06-09,Palpitations,Mild,Unrelated,Dose adjusted,Ongoing,,No,Caregiver
+SUBJ_002,SUBJ_002_AE03,2025-07-05,Headache,Mild,Probably related,None,Ongoing,,No,Clinician
+SUBJ_003,SUBJ_003_AE01,2025-09-17,Mild rash,Mild,Probably related,Dose adjusted,Resolved,2025-09-21,No,Participant
+SUBJ_003,SUBJ_003_AE02,2025-09-13,Nausea,Mild,Possibly related,Medication prescribed,Resolved,2025-09-26,No,Caregiver
+SUBJ_005,SUBJ_005_AE01,2025-11-13,Dizziness,Moderate,Probably related,None,Resolved with treatment,2025-11-16,No,Clinician
+SUBJ_005,SUBJ_005_AE02,2026-01-28,Dizziness,Moderate,Possibly related,Medication prescribed,Resolved,2026-02-09,No,Caregiver
+SUBJ_008,SUBJ_008_AE01,2025-10-02,Joint pain,Mild,Possibly related,None,Withdrawn from study,,No,Clinician
+SUBJ_008,SUBJ_008_AE02,2025-11-19,Mild rash,Moderate,Possibly related,None,Resolved,2025-11-21,No,Caregiver
+SUBJ_010,SUBJ_010_AE01,2025-03-01,Loss of appetite,Mild,Possibly related,None,Resolved,2025-03-09,No,Caregiver
+SUBJ_010,SUBJ_010_AE02,2025-02-01,Fatigue,Moderate,Possibly related,None,Resolved,2025-02-09,No,Participant
+SUBJ_010,SUBJ_010_AE03,2025-03-29,Joint pain,Mild,Possibly related,None,Ongoing,,No,Clinician
+SUBJ_010,SUBJ_010_AE04,2025-02-23,Headache,Severe,Possibly related,None,Resolved,2025-03-13,Yes,Caregiver
+SUBJ_013,SUBJ_013_AE01,2024-11-19,Loss of appetite,Mild,Unrelated,Dose adjusted,Withdrawn from study,,No,Participant
+SUBJ_013,SUBJ_013_AE02,2025-01-02,Joint pain,Moderate,Possibly related,None,Resolved with treatment,2025-01-12,No,Clinician
+SUBJ_013,SUBJ_013_AE03,2025-02-04,Palpitations,Mild,Definitely related,Dose adjusted,Withdrawn from study,,No,Clinician
+SUBJ_014,SUBJ_014_AE01,2025-04-09,Nausea,Mild,Probably related,Medication prescribed,Resolved with treatment,2025-04-12,No,Caregiver
+SUBJ_014,SUBJ_014_AE02,2025-06-16,Palpitations,Mild,Unrelated,Dose adjusted,Ongoing,,No,Caregiver
+SUBJ_014,SUBJ_014_AE03,2025-05-03,Loss of appetite,Severe,Unrelated,Withdrawn,Resolved with treatment,2025-05-10,Yes,Caregiver
+SUBJ_015,SUBJ_015_AE01,2025-10-18,Palpitations,Mild,Unrelated,None,Resolved,2025-11-06,No,Participant
+SUBJ_015,SUBJ_015_AE02,2025-12-16,Mild rash,Mild,Unrelated,None,Resolved,2025-12-18,No,Caregiver
+SUBJ_015,SUBJ_015_AE03,2025-11-18,Anxiety episode,Mild,Possibly related,Medication prescribed,Resolved,2025-12-07,No,Clinician
+SUBJ_015,SUBJ_015_AE04,2025-10-11,Mild rash,Mild,Possibly related,None,Ongoing,,No,Caregiver
+SUBJ_016,SUBJ_016_AE01,2026-01-07,Dizziness,Moderate,Unrelated,Dose adjusted,Resolved with treatment,2026-01-11,No,Participant
+SUBJ_017,SUBJ_017_AE01,2024-11-02,Nausea,Moderate,Unrelated,Withdrawn,Resolved,2024-11-20,No,Participant
+SUBJ_017,SUBJ_017_AE02,2024-10-13,Gastrointestinal discomfort,Moderate,Possibly related,None,Resolved with treatment,2024-10-19,No,Clinician
+SUBJ_017,SUBJ_017_AE03,2024-10-09,Insomnia,Mild,Definitely related,Medication prescribed,Resolved,2024-10-22,No,Clinician
+SUBJ_018,SUBJ_018_AE01,2025-09-06,Anxiety episode,Mild,Probably related,None,Withdrawn from study,,No,Clinician
+SUBJ_018,SUBJ_018_AE02,2025-08-20,Fatigue,Mild,Unrelated,Dose adjusted,Resolved,2025-09-06,No,Participant
+SUBJ_018,SUBJ_018_AE03,2025-08-21,Dizziness,Mild,Possibly related,Visit scheduled,Ongoing,,No,Caregiver
+SUBJ_018,SUBJ_018_AE04,2025-09-13,Gastrointestinal discomfort,Mild,Possibly related,Dose adjusted,Resolved,2025-09-16,No,Clinician
+SUBJ_020,SUBJ_020_AE01,2025-06-21,Insomnia,Mild,Possibly related,Visit scheduled,Ongoing,,No,Participant
+SUBJ_020,SUBJ_020_AE02,2025-05-20,Nausea,Mild,Unrelated,None,Withdrawn from study,,No,Clinician
+SUBJ_020,SUBJ_020_AE03,2025-06-04,Mild rash,Severe,Unrelated,None,Resolved with treatment,2025-06-12,Yes,Caregiver
+SUBJ_025,SUBJ_025_AE01,2026-01-24,Loss of appetite,Mild,Possibly related,None,Resolved,2026-01-28,No,Caregiver
+SUBJ_025,SUBJ_025_AE02,2025-10-30,Insomnia,Moderate,Possibly related,None,Resolved,2025-11-20,No,Participant
+SUBJ_025,SUBJ_025_AE03,2025-10-15,Headache,Mild,Unrelated,None,Resolved with treatment,2025-10-17,No,Clinician
+SUBJ_026,SUBJ_026_AE01,2024-10-01,Loss of appetite,Mild,Definitely related,Dose adjusted,Resolved,2024-10-04,No,Clinician
+SUBJ_026,SUBJ_026_AE02,2024-09-15,Insomnia,Mild,Unrelated,Visit scheduled,Resolved,2024-09-17,No,Participant
+SUBJ_026,SUBJ_026_AE03,2024-08-17,Mild rash,Mild,Probably related,Visit scheduled,Resolved,2024-08-21,No,Clinician
+SUBJ_026,SUBJ_026_AE04,2024-09-20,Fatigue,Moderate,Definitely related,Medication prescribed,Resolved with treatment,2024-09-28,No,Clinician
+SUBJ_027,SUBJ_027_AE01,2025-03-05,Dizziness,Moderate,Unrelated,Medication prescribed,Ongoing,,No,Participant
+SUBJ_027,SUBJ_027_AE02,2025-01-10,Dizziness,Moderate,Probably related,None,Resolved with treatment,2025-01-18,No,Clinician
+SUBJ_027,SUBJ_027_AE03,2025-03-08,Joint pain,Moderate,Unrelated,None,Resolved,2025-03-09,No,Participant
+SUBJ_029,SUBJ_029_AE01,2024-08-29,Fatigue,Severe,Possibly related,Withdrawn,Resolved,2024-09-07,Yes,Participant
+SUBJ_029,SUBJ_029_AE02,2024-07-31,Gastrointestinal discomfort,Mild,Possibly related,Dose adjusted,Resolved,2024-08-11,No,Clinician
+SUBJ_029,SUBJ_029_AE03,2024-09-29,Headache,Mild,Possibly related,Medication prescribed,Resolved,2024-10-13,No,Caregiver
+SUBJ_029,SUBJ_029_AE04,2024-10-18,Dizziness,Severe,Unrelated,None,Ongoing,,Yes,Caregiver
+SUBJ_033,SUBJ_033_AE01,2024-09-25,Palpitations,Moderate,Unrelated,None,Resolved,2024-10-05,No,Clinician
+SUBJ_033,SUBJ_033_AE02,2024-11-11,Insomnia,Moderate,Possibly related,Medication prescribed,Resolved,2024-11-30,No,Clinician
+SUBJ_033,SUBJ_033_AE03,2024-09-22,Joint pain,Mild,Unrelated,None,Resolved with treatment,2024-10-12,No,Caregiver
+SUBJ_034,SUBJ_034_AE01,2025-10-21,Anxiety episode,Mild,Unrelated,Medication prescribed,Resolved,2025-11-11,No,Participant
+SUBJ_034,SUBJ_034_AE02,2025-10-23,Headache,Mild,Unrelated,Withdrawn,Resolved with treatment,2025-10-28,No,Caregiver
+SUBJ_034,SUBJ_034_AE03,2025-11-14,Anxiety episode,Moderate,Unrelated,Medication prescribed,Resolved,2025-12-05,No,Clinician
+SUBJ_034,SUBJ_034_AE04,2025-09-18,Headache,Mild,Probably related,Visit scheduled,Ongoing,,No,Participant
+SUBJ_036,SUBJ_036_AE01,2026-02-07,Fatigue,Mild,Probably related,Medication prescribed,Resolved with treatment,2026-02-22,No,Caregiver
+SUBJ_036,SUBJ_036_AE02,2026-02-12,Anxiety episode,Mild,Probably related,Visit scheduled,Resolved with treatment,2026-02-27,No,Clinician
+SUBJ_036,SUBJ_036_AE03,2026-03-14,Loss of appetite,Moderate,Probably related,None,Resolved,2026-03-20,No,Participant
+SUBJ_036,SUBJ_036_AE04,2026-03-15,Elevated blood pressure,Mild,Possibly related,None,Resolved with treatment,2026-04-01,No,Participant
+SUBJ_038,SUBJ_038_AE01,2025-05-05,Loss of appetite,Mild,Unrelated,None,Resolved,2025-05-18,No,Clinician
+SUBJ_038,SUBJ_038_AE02,2025-04-18,Dizziness,Mild,Probably related,None,Resolved,2025-04-20,No,Caregiver
+SUBJ_038,SUBJ_038_AE03,2025-05-25,Gastrointestinal discomfort,Mild,Possibly related,Visit scheduled,Resolved with treatment,2025-06-13,No,Clinician
+SUBJ_042,SUBJ_042_AE01,2024-10-04,Mild rash,Mild,Possibly related,Medication prescribed,Resolved,2024-10-17,No,Caregiver
+SUBJ_042,SUBJ_042_AE02,2024-09-27,Palpitations,Moderate,Unrelated,None,Resolved with treatment,2024-10-17,No,Caregiver
+SUBJ_044,SUBJ_044_AE01,2025-12-21,Mild rash,Mild,Unrelated,None,Resolved,2026-01-03,No,Clinician
+SUBJ_044,SUBJ_044_AE02,2025-10-07,Nausea,Moderate,Possibly related,Medication prescribed,Resolved with treatment,2025-10-16,No,Participant
+SUBJ_044,SUBJ_044_AE03,2025-10-16,Headache,Mild,Probably related,Visit scheduled,Resolved,2025-11-06,No,Participant
+SUBJ_044,SUBJ_044_AE04,2025-12-18,Elevated blood pressure,Mild,Possibly related,Dose adjusted,Resolved,2025-12-23,No,Participant
+SUBJ_045,SUBJ_045_AE01,2025-01-27,Loss of appetite,Mild,Unrelated,Medication prescribed,Withdrawn from study,,No,Clinician
+SUBJ_045,SUBJ_045_AE02,2025-01-19,Joint pain,Mild,Definitely related,None,Resolved with treatment,2025-02-07,No,Caregiver
+SUBJ_045,SUBJ_045_AE03,2025-01-31,Joint pain,Mild,Unrelated,Medication prescribed,Ongoing,,No,Clinician
+SUBJ_048,SUBJ_048_AE01,2025-04-06,Joint pain,Mild,Unrelated,Medication prescribed,Resolved,2025-04-23,No,Clinician
+SUBJ_049,SUBJ_049_AE01,2025-01-03,Joint pain,Mild,Unrelated,Medication prescribed,Resolved,2025-01-20,No,Caregiver
+SUBJ_049,SUBJ_049_AE02,2025-01-12,Insomnia,Mild,Unrelated,None,Resolved,2025-01-31,No,Participant
+SUBJ_049,SUBJ_049_AE03,2024-11-09,Anxiety episode,Moderate,Possibly related,None,Resolved,2024-11-24,No,Participant
+SUBJ_050,SUBJ_050_AE01,2025-09-16,Insomnia,Mild,Probably related,Medication prescribed,Resolved with treatment,2025-09-27,No,Clinician
+SUBJ_050,SUBJ_050_AE02,2025-09-25,Dizziness,Mild,Probably related,None,Resolved with treatment,2025-09-28,No,Participant
+SUBJ_050,SUBJ_050_AE03,2025-10-12,Elevated blood pressure,Mild,Probably related,None,Ongoing,,No,Participant
